@@ -1,2 +1,3 @@
-# Property-Analysis-Australia-dashboard
-End-to-end Power BI project delivering property and location-based insights across Australia. Implements data cleaning, ETL pipelines, data modelling, and advanced DAX dashboards. Integrated SSRS reports with Power BI using parameterized URL navigation for detailed reporting.
+# 📊 Property-Analysis-Australia-dashboard
+EThis project is an end-to-end Business Intelligence solution focused on property and location-based analysis across Australia. It combines housing, rental, transport, education, and crime data to deliver meaningful insights for data-driven decision-making.
+
