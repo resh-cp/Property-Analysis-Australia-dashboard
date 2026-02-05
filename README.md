@@ -22,7 +22,7 @@ EThis project is an end-to-end Business Intelligence solution focused on propert
 | Stage | What Was Implemented |
 |-------|----------------------|
 | Raw Data | Collected housing, rental, transport, school and crime data |
-| Data Cleaning | Cleaned, standardized and validated data using SQL & SSIS |
+| Data Cleaning | Cleaned, standardised and validated data using SQL & SSIS |
 | Data Modelling | Design fact & dimension tables using star scheme |
 | ETL Pipelines | Built SSIS packges for loading and transforming data |
 | Power BI | Created interactive dashboards with KPIs and drill-through |
