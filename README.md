@@ -11,8 +11,8 @@ EThis project is an end-to-end Business Intelligence solution focused on propert
 
   Support stakeholders with actionable insights for planning and investment
 ## 🛠️ Tools Used
-| Catregory | Tools/Technologies |
-|-----------|--------------------|
+| Catregory | Tools/Technologies     |
+|-----------|------------------------|
 | Database & Data Modelling | Microsoft SQL Server |
 | ETL & Integration | Microsoft SSIS |
 | Analytics | DAX, Power Query |
