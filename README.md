@@ -84,6 +84,11 @@ This project is an end-to-end Business Intelligence solution focused on property
 This project demonstrates my ability to design and deliver a full BI pipeline, from raw data ingestion to advanced analytics and reporting.
 It showcases strong skills in data warehousing, ETL, Power BI, SSRS, and analytical storytelling, aligned with real-world business need
 
+Author :  Reshma C P, 
+          New Zealand, 
+          Aspiring Data Analyst/ BI Developer
+          
+
 
 
 
