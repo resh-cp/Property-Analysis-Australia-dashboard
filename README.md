@@ -1,4 +1,4 @@
-<img width="1123" height="632" alt="Screenshot 2026-02-04 115746" src="https://github.com/user-attachments/assets/31355e42-5f71-4778-8d87-268f32125133" /><img width="1120" height="633" alt="Screenshot 2026-02-04 115705" src="https://github.com/user-attachments/assets/808fba67-d24e-4070-8edc-ded3536c28b3" /><img width="1118" height="629" alt="Screenshot 2026-02-04 115649" src="https://github.com/user-attachments/assets/0f8fc4e6-f75b-4860-91ae-017d3ac1f0fd" /><img width="1123" height="635" alt="Screenshot 2026-02-04 115630" src="https://github.com/user-attachments/assets/d67ee379-6217-41ae-af5b-6d1403fc1a94" /># 📊 Property-Analysis-Dashboard
+📊 Property-Analysis-Dashboard
 This project is an end-to-end Business Intelligence solution focused on property and location-based analysis across Australia. It combines housing, rental, transport, education, and crime data to deliver meaningful insights for data-driven decision-making.
 ## 🎯 Objective
   - Build a scalable data warehouse for multi-domain property analysis
