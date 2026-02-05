@@ -17,3 +17,4 @@ EThis project is an end-to-end Business Intelligence solution focused on propert
 | ETL & Integration | Microsoft SSIS |
 | Analytics | DAX, Power Query |
 | Reporting & Visualization | Power BI, SSRS |
+##🔄 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄
