@@ -28,3 +28,7 @@ This project is an end-to-end Business Intelligence solution focused on property
 | Power BI | Created interactive dashboards with KPIs and drill-through |
 | SSRS | Built parameterised reports for detailed analysis |
 | Integration | Linked Power BI to SSRS using URL-based navigation |
+## 📊 Dashboards & Key Insights
+🏠 Home Page
+<img width="1124" height="625" alt="Screenshot 2026-02-04 115551" src="https://github.com/user-attachments/assets/a7fc2fdb-f78b-4a07-adfd-e0f00fdd9987" />
+
