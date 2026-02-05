@@ -17,4 +17,14 @@ EThis project is an end-to-end Business Intelligence solution focused on propert
 | ETL & Integration | Microsoft SSIS |
 | Analytics | DAX, Power Query |
 | Reporting & Visualization | Power BI, SSRS |
-##🔄 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄
+
+## 🔄 Project Implementation Workflow
+| Stage | What Was Implemented |
+|-------|----------------------|
+| Raw Data | Collected housing, rental, transport, school and crime data |
+| Data Cleaning | Cleaned, standardized and validated data using SQL & SSIS |
+| Data Modelling | Design fact & dimension tables using star scheme |
+| ETL Pipelines | Built SSIS packges for loading and transforming data |
+| Power BI | Created interactive dashboards with KPIs and drill-through |
+| SSRS | Built parameterised reports for detailed analysis |
+| Integration | Linked Power BI to SSRS using URL-based navigation |
